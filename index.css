@@ -1,0 +1,48 @@
+p {
+   font-style: oblique;
+   text-align: center;
+}
+
+#main {
+   text-align: center;
+   padding: 10px;
+   margin: auto;
+   width: 95%;
+   background-image: linear-gradient(-15deg, #ccf, #bdb);
+}
+
+#title {
+   text-align: center;
+   margin: auto;
+   min-width: 376px;
+   max-width: 550px;
+}
+
+#img-div {
+   text-align: center;
+   margin: auto;
+   min-width: 376px;
+   max-width: 550px;
+}
+
+#image {
+   display: block;
+   margin: auto;
+   max-width: 100%;
+   height: auto;
+}
+
+#image-caption {
+   font-size: 0.6 em;
+}
+
+#tribute-info {
+   text-align: left;
+   margin: auto;
+   min-width: 376px;
+   max-width: 550px;
+}
+
+#tribute-link {
+   font-weight: bold;
+}
